@@ -1,0 +1,22 @@
+[200~https://indico.cern.ch/event/344003/overview
+https://indico.cern.ch/event/352570/
+https://twiki.cern.ch/twiki/bin/viewauth/AtlasComputing/SoftwareTutorialReconstructedObjects
+https://indico.cern.ch/event/321764/#preview:855543
+https://twiki.cern.ch/twiki/bin/view/AtlasComputing/XAODMiniTutorialDerivations#Setting_up_your_own_derivations
+https://twiki.cern.ch/twiki/bin/view/AtlasComputing/HowToRunInDetRecExample
+https://panda-wms.readthedocs.io/en/latest/client/pathena.html
+
+https://twiki.cern.ch/twiki/bin/view/AtlasComputing/ComputingTutorials
+https://twiki.cern.ch/twiki/bin/view/AtlasComputing/HowToValidateInDetReco
+https://www.lip.pt/~jgoncalo/content/talks/atlas/OfflineTutorial22Oct09/TriggerSWTutorialOct09.pdf
+https://atlaswww.hep.anl.gov/asc/wikidoc/doku.php?id=asc:tutorials:2014october
+https://atlaswww.hep.anl.gov/asc/wikidoc/doku.php?id=asc:tutorials:2014october page 4
+
+https://atlaswww.hep.anl.gov/asc/wikidoc/doku.php?id=asc:tutorials:2014october
+Operation and performance of the ATLAS semiconductor tracker in LHC Run 2 CERN-EP-2021-178
+https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=ATLAS%20hits%20cluster
+
+[200~http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A281694&dswid=323
+[200~https://gitlab.cern.ch/atlas/athena/blob/main/Control/AthViews/share/ViewInheritance.py
+https://atlassoftwaredocs.web.cern.ch/guides/trigger/idc/
+https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PLOTS/IDTR-2023-04/ (Status of ACTS Integration for Phase II ATLAS Track Reconstruction)
